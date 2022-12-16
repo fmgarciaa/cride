@@ -19,6 +19,7 @@ CRide is a carpooling car project by [Pablo Trinidad](https://github.com/pablotr
 -   Celery to asynchronous processes 
 -   Flower - Celery monitoring tool
 -   Caddy - HTTP server
+-   Redis as cache database
 -   [12-Factor](http://12factor.net/) based settings via [django-environ](https://github.com/joke2k/django-environ)
 -   Optimized development and production settings
 -   Send emails via [Anymail](https://github.com/anymail/django-anymail) (using [Mailgun](http://www.mailgun.com/) by default or Amazon SES if AWS is selected cloud provider, but switchable)
