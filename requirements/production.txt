@@ -2,7 +2,7 @@
 
 -r ./base.txt
 
-gunicorn==22.0.0
+gunicorn==23.0.0
 
 # Static files
 django-storages[boto3]==1.7.1
